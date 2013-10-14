@@ -1,19 +1,19 @@
 {
-  "name": "james-stylus",
-  "version": "0.1.4",
+  "name": "james-ngmin",
+  "version": "0.1.0",
   "engines": {
     "node": ">=0.8.0"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/leonidas/james-stylus"
+    "url": "https://github.com/leonidas/james-ngmin"
   },
   "scripts": {
     "test": "jshint ./**/*.js && mocha"
   },
   "dependencies": {
     "james": "~0.1.4",
-    "stylus": "~0.32.1"
+    "ngmin": "~0.4.0"
   },
   "devDependencies": {
     "mocha": "~1.8.2",
